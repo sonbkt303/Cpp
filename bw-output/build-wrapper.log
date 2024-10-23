@@ -1,0 +1,100 @@
+Mon Oct 21 17:12:05 2024: build-wrapper, version 6.52.1 (win-x86-64)
+Mon Oct 21 17:12:05 2024: isWow64: 0
+Mon Oct 21 17:12:05 2024: windows version: 10.0, service pack: 0.0, build number: 19045, product type: 1
+Mon Oct 21 17:12:05 2024: current directory: E:\Sonarqube\Cpp
+Mon Oct 21 17:12:05 2024: cwd: <E:\Sonarqube\Cpp>
+Mon Oct 21 17:12:05 2024: out-dir absolute path: <E:\Sonarqube\Cpp\bw-output>
+Mon Oct 21 17:12:05 2024: command line received: <g++ -o MyProgram main.cpp>
+Mon Oct 21 17:12:05 2024: initializing json file
+Mon Oct 21 17:12:05 2024: starting debug cycle
+Mon Oct 21 17:12:05 2024: process created with pid: 22440
+Mon Oct 21 17:12:05 2024: image path name: <C:\MinGW\bin\g++.exe>
+Mon Oct 21 17:12:05 2024: command line: <g++ -o MyProgram main.cpp>
+Mon Oct 21 17:12:05 2024: working directory: <E:\Sonarqube\Cpp\>
+Mon Oct 21 17:12:05 2024: isWow64: 1
+Mon Oct 21 17:12:05 2024: VirtualQueryEx 00000000000106F2
+Mon Oct 21 17:12:05 2024: 	Offset 1778
+Mon Oct 21 17:12:05 2024: 	VirtualQueryEx Base	BaseAddr: 0000000000010000	AllocationBase: 0000000000010000	AllocationProtect: 0x4	Protect: 0x4	State: 0x1000	RegionSize: 131072	Type: 0x20000
+Mon Oct 21 17:12:05 2024: Read environment of size 4357
+Mon Oct 21 17:12:05 2024: env0: <ALLUSERSPROFILE=C:\ProgramData>
+Mon Oct 21 17:12:05 2024: env1: <APPDATA=C:\Users\EVN0031\AppData\Roaming>
+Mon Oct 21 17:12:05 2024: env2: <ChocolateyInstall=C:\ProgramData\chocolatey>
+Mon Oct 21 17:12:05 2024: env3: <ChocolateyLastPathUpdate=133468383098949487>
+Mon Oct 21 17:12:05 2024: env4: <CommonProgramFiles=C:\Program Files\Common Files>
+Mon Oct 21 17:12:05 2024: env5: <CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files>
+Mon Oct 21 17:12:05 2024: env6: <CommonProgramW6432=C:\Program Files\Common Files>
+Mon Oct 21 17:12:05 2024: env7: <COMPUTERNAME=EVN-EVN0031-W01>
+Mon Oct 21 17:12:05 2024: env8: <ComSpec=C:\WINDOWS\system32\cmd.exe>
+Mon Oct 21 17:12:05 2024: env9: <CYGWIN=wincmdln>
+Mon Oct 21 17:12:05 2024: env10: <DriverData=C:\Windows\System32\Drivers\DriverData>
+Mon Oct 21 17:12:05 2024: env11: <GOPATH=C:\Users\EVN0031\go>
+Mon Oct 21 17:12:05 2024: env12: <HOMEDRIVE=C:>
+Mon Oct 21 17:12:05 2024: env13: <HOMEPATH=\Users\EVN0031>
+Mon Oct 21 17:12:05 2024: env14: <LOCALAPPDATA=C:\Users\EVN0031\AppData\Local>
+Mon Oct 21 17:12:05 2024: env15: <LOGONSERVER=\\VN-HYPER-SVR03>
+Mon Oct 21 17:12:05 2024: env16: <MOZ_PLUGIN_PATH=C:\Program Files (x86)\Foxit Software\Foxit Reader\plugins\>
+Mon Oct 21 17:12:05 2024: env17: <NUMBER_OF_PROCESSORS=8>
+Mon Oct 21 17:12:05 2024: env18: <NVM_HOME=C:\ProgramData\nvm>
+Mon Oct 21 17:12:05 2024: env19: <NVM_SYMLINK=C:\Program Files\nodejs>
+Mon Oct 21 17:12:05 2024: env20: <OneDrive=C:\Users\EVN0031\OneDrive - Vatech Networks>
+Mon Oct 21 17:12:05 2024: env21: <OneDriveCommercial=C:\Users\EVN0031\OneDrive - Vatech Networks>
+Mon Oct 21 17:12:05 2024: env22: <OS=Windows_NT>
+Mon Oct 21 17:12:05 2024: env23: <PATH=C:\Program Files\PowerShell\7;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Microsoft SDKs\Azure\CLI2\wbin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Yarn\bin\;node_modules\npm\bin;C:\Users\EVN0031\AppData\Roaming\nvm;C:\Program Files\Git\cmd;C:\Program Files\Kubernetes\Minikube;C:\ProgramData\chocolatey\bin;%JAVA_HOME%\bin;%JRE_HOME%\bin;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Program Files\Go\bin;C:\Program Files (x86)\Bitvise SSH Client;C:\Users\EVN0031\Downloads\build-wrapper-win-x86;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\PowerShell\7\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\MSBuild\15.0\Bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\TortoiseSVN\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Program Files\MySQL\MySQL Shell 8.2\bin\;C:\Users\EVN0031\AppData\Local\Microsoft\WindowsApps;C:\Users\EVN0031\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\EVN0031\AppData\Local\Yarn\bin;C:\Users\EVN0031\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\EVN0031\AppData\Local\gitkraken\bin;C:\Users\EVN0031\AppData\Local\Microsoft\WindowsApps;C:\Users\EVN0031\Documents\WindowsPowerShell\Scripts;C:\Users\EVN0031\AppData\Roaming\npm;C:\Program Files (x86)\MongoDB Atlas CLI\;C:\ProgramData\nvm;C:\Program Files\nodejs;C:\Users\EVN0031\go\bin;C:\Users\EVN0031\Downloads\sonar-scanner-cli-5.0.1.3006-windows\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\EVN0031\Downloads\build-wrapper-win-x86;C:\Users\EVN0031\AppData\Local\GitHubDesktop\bin;C:\Users\EVN0031\.bun\bin;C:\Users\EVN0031\.dotnet\tools;C:\Users\EVN0031\Downloads\sonar-scanner-9.0.0.100868-net-framework;C:\sqlite;>
+Mon Oct 21 17:12:05 2024: env24: <PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL>
+Mon Oct 21 17:12:05 2024: env25: <POWERSHELL_DISTRIBUTION_CHANNEL=MSI:Windows 10 Pro>
+Mon Oct 21 17:12:05 2024: env26: <PROCESSOR_ARCHITECTURE=AMD64>
+Mon Oct 21 17:12:05 2024: env27: <PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel>
+Mon Oct 21 17:12:05 2024: env28: <PROCESSOR_LEVEL=6>
+Mon Oct 21 17:12:05 2024: env29: <PROCESSOR_REVISION=9e09>
+Mon Oct 21 17:12:05 2024: env30: <ProgramData=C:\ProgramData>
+Mon Oct 21 17:12:05 2024: env31: <ProgramFiles=C:\Program Files>
+Mon Oct 21 17:12:05 2024: env32: <ProgramFiles(x86)=C:\Program Files (x86)>
+Mon Oct 21 17:12:05 2024: env33: <ProgramW6432=C:\Program Files>
+Mon Oct 21 17:12:05 2024: env34: <PSModulePath=C:\Users\EVN0031\Documents\PowerShell\Modules;C:\Program Files\PowerShell\Modules;c:\program files\powershell\7\Modules;C:\Users\EVN0031\Documents\WindowsPowerShell\Modules;C:\Users\EVN0031\AppData\Local\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Google\Cloud SDK\google-cloud-sdk\platform\PowerShell>
+Mon Oct 21 17:12:05 2024: env35: <PUBLIC=C:\Users\Public>
+Mon Oct 21 17:12:05 2024: env36: <SESSIONNAME=Console>
+Mon Oct 21 17:12:05 2024: env37: <SONAR_TOKEN=e1d23d071e94c51c09794bbe4f56b046c0b166c7>
+Mon Oct 21 17:12:05 2024: env38: <SystemDrive=C:>
+Mon Oct 21 17:12:05 2024: env39: <SystemRoot=C:\WINDOWS>
+Mon Oct 21 17:12:05 2024: env40: <TEMP=C:\Users\EVN0031\AppData\Local\Temp>
+Mon Oct 21 17:12:05 2024: env41: <TMP=C:\Users\EVN0031\AppData\Local\Temp>
+Mon Oct 21 17:12:05 2024: env42: <USERDNSDOMAIN=VATECHNETWORKS.COM>
+Mon Oct 21 17:12:05 2024: env43: <USERDOMAIN=VATECHNETWORKS>
+Mon Oct 21 17:12:05 2024: env44: <USERDOMAIN_ROAMINGPROFILE=VATECHNETWORKS>
+Mon Oct 21 17:12:05 2024: env45: <USERNAME=EVN0031>
+Mon Oct 21 17:12:05 2024: env46: <USERPROFILE=C:\Users\EVN0031>
+Mon Oct 21 17:12:05 2024: env47: <windir=C:\WINDOWS>
+Mon Oct 21 17:12:05 2024: env48: <WSLENV=WT_SESSION:WT_PROFILE_ID:>
+Mon Oct 21 17:12:05 2024: env49: <WT_PROFILE_ID={574e775e-4f2a-5b96-ac1e-a2962a402336}>
+Mon Oct 21 17:12:05 2024: env50: <WT_SESSION=f453567e-fdbb-40be-858c-3b895e62bdca>
+Mon Oct 21 17:12:05 2024: env51: <_NO_DEBUG_HEAP=1>
+Mon Oct 21 17:12:06 2024: process created with pid: 29224
+Mon Oct 21 17:12:06 2024: image path name: <c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\cc1plus.exe>
+Mon Oct 21 17:12:06 2024: command line: <c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/cc1plus.exe -quiet -iprefix c:\mingw\bin\../lib/gcc/mingw32/6.3.0/ main.cpp -quiet -dumpbase main.cpp -mtune=generic -march=i586 -auxbase main -o C:\Users\EVN0031\AppData\Local\Temp\cc6kM8ie.s>
+Mon Oct 21 17:12:06 2024: working directory: <E:\Sonarqube\Cpp\>
+Mon Oct 21 17:12:06 2024: isWow64: 1
+Mon Oct 21 17:12:06 2024: skipping process c:\MinGW\bin\..\libexec\gcc\mingw32\6.3.0\cc1plus.exe with pid: 29224
+Mon Oct 21 17:12:06 2024: process with pid 29224 exit with code: 0 (0x0)
+Mon Oct 21 17:12:06 2024: process created with pid: 31136
+Mon Oct 21 17:12:06 2024: image path name: <c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\as.exe>
+Mon Oct 21 17:12:06 2024: command line: <c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/as.exe -o C:\Users\EVN0031\AppData\Local\Temp\ccym1l0G.o C:\Users\EVN0031\AppData\Local\Temp\cc6kM8ie.s>
+Mon Oct 21 17:12:06 2024: working directory: <E:\Sonarqube\Cpp\>
+Mon Oct 21 17:12:06 2024: isWow64: 1
+Mon Oct 21 17:12:06 2024: skipping process c:\MinGW\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\as.exe with pid: 31136
+Mon Oct 21 17:12:06 2024: process with pid 31136 exit with code: 0 (0x0)
+Mon Oct 21 17:12:06 2024: process created with pid: 14752
+Mon Oct 21 17:12:06 2024: image path name: <c:\mingw\bin\..\libexec\gcc\mingw32\6.3.0\collect2.exe>
+Mon Oct 21 17:12:06 2024: command line: <c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/collect2.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\EVN0031\AppData\Local\Temp\ccUgm97g.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o MyProgram.exe c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. C:\Users\EVN0031\AppData\Local\Temp\ccym1l0G.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o>
+Mon Oct 21 17:12:06 2024: working directory: <E:\Sonarqube\Cpp\>
+Mon Oct 21 17:12:06 2024: isWow64: 1
+Mon Oct 21 17:12:06 2024: skipping process c:\MinGW\bin\..\libexec\gcc\mingw32\6.3.0\collect2.exe with pid: 14752
+Mon Oct 21 17:12:06 2024: process created with pid: 3096
+Mon Oct 21 17:12:06 2024: image path name: <c:\mingw\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\ld.exe>
+Mon Oct 21 17:12:06 2024: command line: <c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe -plugin c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/liblto_plugin-0.dll -plugin-opt=c:/mingw/bin/../libexec/gcc/mingw32/6.3.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\EVN0031\AppData\Local\Temp\ccUgm97g.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmoldname -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -Bdynamic -u ___register_frame_info -u ___deregister_frame_info -o MyProgram.exe c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../crt2.o c:/mingw/bin/../lib/gcc/mingw32/6.3.0/crtbegin.o -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0 -Lc:/mingw/bin/../lib/gcc -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/lib -Lc:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../.. C:\Users\EVN0031\AppData\Local\Temp\ccym1l0G.o -lstdc++ -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmoldname -lmingwex -lmsvcrt c:/mingw/bin/../lib/gcc/mingw32/6.3.0/crtend.o>
+Mon Oct 21 17:12:06 2024: working directory: <E:\Sonarqube\Cpp\>
+Mon Oct 21 17:12:06 2024: isWow64: 1
+Mon Oct 21 17:12:06 2024: skipping process c:\MinGW\bin\..\lib\gcc\mingw32\6.3.0\..\..\..\..\mingw32\bin\ld.exe with pid: 3096
+Mon Oct 21 17:12:06 2024: process with pid 3096 exit with code: 0 (0x0)
+Mon Oct 21 17:12:06 2024: process with pid 14752 exit with code: 0 (0x0)
+Mon Oct 21 17:12:06 2024: process with pid 22440 exit with code: 0 (0x0)
+Mon Oct 21 17:12:06 2024: finalizing json file

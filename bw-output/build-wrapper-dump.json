@@ -1,0 +1,72 @@
+# (C) SonarSource SA, 2014-2023, info@sonarsource.com
+# All SONARSOURCE programs and content are copyright protected.
+# SONARSOURCE and SONARQUBE are trademarks of SonarSource SA. All rights are expressly reserved.
+#
+# This file is designed exclusively for use with the SONARSOURCE C / C++ / Objective-C Plugin.
+# It may not be used in connection with any other software.
+# Any other use is prohibited by law and may be grounds for immediate termination of your License.
+{
+"version":"6.52.1",
+"captures":[
+{
+"compiler":"clang",
+"executable":"C:\\MinGW\\bin\\g++.exe",
+"cmd": [
+"g++",
+"-o",
+"MyProgram",
+"main.cpp"],
+"cwd":"E:\\Sonarqube\\Cpp\\",
+"env": [
+"ALLUSERSPROFILE=C:\\ProgramData",
+"APPDATA=C:\\Users\\EVN0031\\AppData\\Roaming",
+"ChocolateyInstall=C:\\ProgramData\\chocolatey",
+"ChocolateyLastPathUpdate=133468383098949487",
+"CommonProgramFiles=C:\\Program Files\\Common Files",
+"CommonProgramFiles(x86)=C:\\Program Files (x86)\\Common Files",
+"CommonProgramW6432=C:\\Program Files\\Common Files",
+"COMPUTERNAME=EVN-EVN0031-W01",
+"ComSpec=C:\\WINDOWS\\system32\\cmd.exe",
+"CYGWIN=wincmdln",
+"DriverData=C:\\Windows\\System32\\Drivers\\DriverData",
+"GOPATH=C:\\Users\\EVN0031\\go",
+"HOMEDRIVE=C:",
+"HOMEPATH=\\Users\\EVN0031",
+"LOCALAPPDATA=C:\\Users\\EVN0031\\AppData\\Local",
+"LOGONSERVER=\\\\VN-HYPER-SVR03",
+"MOZ_PLUGIN_PATH=C:\\Program Files (x86)\\Foxit Software\\Foxit Reader\\plugins\\",
+"NUMBER_OF_PROCESSORS=8",
+"NVM_HOME=C:\\ProgramData\\nvm",
+"NVM_SYMLINK=C:\\Program Files\\nodejs",
+"OneDrive=C:\\Users\\EVN0031\\OneDrive - Vatech Networks",
+"OneDriveCommercial=C:\\Users\\EVN0031\\OneDrive - Vatech Networks",
+"OS=Windows_NT",
+"PATH=C:\\Program Files\\PowerShell\\7;C:\\Program Files\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Python312\\Scripts\\;C:\\Program Files\\Python312\\;C:\\Program Files\\Microsoft SDKs\\Azure\\CLI2\\wbin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files (x86)\\Yarn\\bin\\;node_modules\\npm\\bin;C:\\Users\\EVN0031\\AppData\\Roaming\\nvm;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Kubernetes\\Minikube;C:\\ProgramData\\chocolatey\\bin;%JAVA_HOME%\\bin;%JRE_HOME%\\bin;C:\\ProgramData\\nvm;C:\\Program Files\\nodejs;C:\\Program Files\\Go\\bin;C:\\Program Files (x86)\\Bitvise SSH Client;C:\\Users\\EVN0031\\Downloads\\build-wrapper-win-x86;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Program Files\\PowerShell\\7\\;C:\\MinGW\\bin;C:\\Program Files\\dotnet\\;C:\\Program Files\\Cloudflare\\Cloudflare WARP\\;C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\MSBuild\\15.0\\Bin;C:\\Program Files\\Microsoft SQL Server\\150\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\MySQL\\MySQL Shell 8.0\\bin\\;C:\\Program Files\\MySQL\\MySQL Shell 8.2\\bin\\;C:\\Users\\EVN0031\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\EVN0031\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\EVN0031\\AppData\\Local\\Yarn\\bin;C:\\Users\\EVN0031\\AppData\\Local\\hyper\\app-3.0.2\\resources\\bin;C:\\Users\\EVN0031\\AppData\\Local\\gitkraken\\bin;C:\\Users\\EVN0031\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\EVN0031\\Documents\\WindowsPowerShell\\Scripts;C:\\Users\\EVN0031\\AppData\\Roaming\\npm;C:\\Program Files (x86)\\MongoDB Atlas CLI\\;C:\\ProgramData\\nvm;C:\\Program Files\\nodejs;C:\\Users\\EVN0031\\go\\bin;C:\\Users\\EVN0031\\Downloads\\sonar-scanner-cli-5.0.1.3006-windows\\sonar-scanner-5.0.1.3006-windows\\bin;C:\\Users\\EVN0031\\Downloads\\build-wrapper-win-x86;C:\\Users\\EVN0031\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\EVN0031\\.bun\\bin;C:\\Users\\EVN0031\\.dotnet\\tools;C:\\Users\\EVN0031\\Downloads\\sonar-scanner-9.0.0.100868-net-framework;C:\\sqlite;",
+"PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL",
+"POWERSHELL_DISTRIBUTION_CHANNEL=MSI:Windows 10 Pro",
+"PROCESSOR_ARCHITECTURE=AMD64",
+"PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 9, GenuineIntel",
+"PROCESSOR_LEVEL=6",
+"PROCESSOR_REVISION=9e09",
+"ProgramData=C:\\ProgramData",
+"ProgramFiles=C:\\Program Files",
+"ProgramFiles(x86)=C:\\Program Files (x86)",
+"ProgramW6432=C:\\Program Files",
+"PSModulePath=C:\\Users\\EVN0031\\Documents\\PowerShell\\Modules;C:\\Program Files\\PowerShell\\Modules;c:\\program files\\powershell\\7\\Modules;C:\\Users\\EVN0031\\Documents\\WindowsPowerShell\\Modules;C:\\Users\\EVN0031\\AppData\\Local\\Google\\Cloud SDK\\google-cloud-sdk\\platform\\PowerShell;C:\\Program Files (x86)\\Google\\Cloud SDK\\google-cloud-sdk\\platform\\PowerShell;C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules;C:\\Program Files (x86)\\Google\\Cloud SDK\\google-cloud-sdk\\platform\\PowerShell",
+"PUBLIC=C:\\Users\\Public",
+"SESSIONNAME=Console",
+"SONAR_TOKEN=e1d23d071e94c51c09794bbe4f56b046c0b166c7",
+"SystemDrive=C:",
+"SystemRoot=C:\\WINDOWS",
+"TEMP=C:\\Users\\EVN0031\\AppData\\Local\\Temp",
+"TMP=C:\\Users\\EVN0031\\AppData\\Local\\Temp",
+"USERDNSDOMAIN=VATECHNETWORKS.COM",
+"USERDOMAIN=VATECHNETWORKS",
+"USERDOMAIN_ROAMINGPROFILE=VATECHNETWORKS",
+"USERNAME=EVN0031",
+"USERPROFILE=C:\\Users\\EVN0031",
+"windir=C:\\WINDOWS",
+"WSLENV=WT_SESSION:WT_PROFILE_ID:",
+"WT_PROFILE_ID={574e775e-4f2a-5b96-ac1e-a2962a402336}",
+"WT_SESSION=f453567e-fdbb-40be-858c-3b895e62bdca",
+"_NO_DEBUG_HEAP=1"]}]}

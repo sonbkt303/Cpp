@@ -1,0 +1,6 @@
+projectKey=C1
+serverUrl=http://54.158.20.86:9000
+serverVersion=9.9.7.96285
+dashboardUrl=http://54.158.20.86:9000/dashboard?id=C1
+ceTaskId=AZKukKajZA7l4R-NcJ44
+ceTaskUrl=http://54.158.20.86:9000/api/ce/task?id=AZKukKajZA7l4R-NcJ44
